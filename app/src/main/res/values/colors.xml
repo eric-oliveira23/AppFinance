@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_primary">#226BEE</color>
+    <color name="blue_secondary">#0041C4</color>
+    <color name="dark_blue">#002150</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue">#effaff</color>
+    <color name="grey">#525252</color>
+    <color name="light_grey">#b3b1b1</color>
+
+<!--    cores despesas-->
+    <color name="primaryDespesa">#FF706A</color>
+    <color name="primaryDarkDespesa">#E66560</color>
+    <color name="AccentDespesa">#FF706A</color>
+
+    <!--    cores receitas-->
+    <color name="primaryReceita">#00D39E</color>
+    <color name="primaryDarkReceita">#00BE8B</color>
+    <color name="AccentReceita">#00D39E</color>
+
+</resources>
